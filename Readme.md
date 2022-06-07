@@ -1,6 +1,4 @@
-# platzi-curso-practico-javascript
 
-...
 
 ## Taller #1: figuras geométricas
 
@@ -9,6 +7,9 @@
 - Tercer paso: crear funciones
 - Cuarto paso: integrar JS con HTML
 
+url para ver ejemplo
+-https://nietsnie-beep.github.io/js-practico/figuras
+
 ## Taller #2: porcentaajes y descuentos
 
 - Primer paso: definir las fórmulas
@@ -16,10 +17,20 @@
 - Tercer paso: crear funciones
 - Cuarto paso: integrar JS con HTML
 
+url para ver ejemplo
+-https://nietsnie-beep.github.io/js-practico/descuentos
+
 ## Taller #3: promedio, mediana y moda
 
 - Primer paso: definir las fórmulas
 - Segundo paso: implementar la fórmulas en JavaScript 
 - Tercer paso: crear funciones
 - Cuarto paso: integrar JS con HTML
-# curso-practico-javascript
+
+url para ver ejemplo
+-ejemplo abrir consola para ver resultado
+
+-https://nietsnie-beep.github.io/js-practico/moda
+-https://nietsnie-beep.github.io/js-practico/promedio
+-https://nietsnie-beep.github.io/js-practico/media
+-https://nietsnie-beep.github.io/js-practico/mediana
