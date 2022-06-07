@@ -32,5 +32,4 @@ url para ver ejemplo
 
 -https://nietsnie-beep.github.io/js-practico/moda
 -https://nietsnie-beep.github.io/js-practico/promedio
--https://nietsnie-beep.github.io/js-practico/media
 -https://nietsnie-beep.github.io/js-practico/mediana
