@@ -1,0 +1,5 @@
+El método .sort de los arrays nos permite ordenar listas de letras o números en JavaScript. Pero por defecto tiene algunos problemillas, como que el 1 millón queda ordenado antes que un 2 porque empieza por 1.
+
+En la próxima clase vamos a utilizar el método .sort enviando como argumento una función anónima que le indique a JavaScript cómo ordenar nuestra lista de números (ya no solo por sus primeros números, sino por sus valores reales).
+
+Pero antes te reto a que descubras cómo hacerlo artesanalmente y por tu cuenta. Esta documentación podrá ayudarte:
